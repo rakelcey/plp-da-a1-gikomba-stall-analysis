@@ -11,6 +11,6 @@ You can view or run the analysis interactively via Google Colab:
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/rakelcey/plp-da-a1-gikomba-stall-analysis/blob/main/stall_analysis.ipynb)
 
 ## Top Three Findings
-1. **Strong Weekend Sales Surge:** Weekend sales average KES 4,650 compared to weekday sales of KES 2,490, representing an 86.75% increase in daily performance on weekends.
-2. **Positive Week-on-Week Growth:** Total sales grew from KES 22,700 in Week 1 to KES 25,300 in Week 2, delivering an 11.45% week-on-week revenue growth.
+1. **Strong Weekend Sales Surge:** Weekend sales average KES 4,900 compared to weekday sales of KES 2,685, representing an 86.75% increase in daily performance on weekends.
+2. **Positive Week-on-Week Growth:** Total sales grew from KES 22,050 in Week 1 to KES 24,400 in Week 2, delivering a 10.66% week-on-week revenue growth.
 3. **Critical Stock Depletion:** Both Tomatoes (18 kg vs 25 kg reorder level) and Sukuma Wiki (9 kg vs 15 kg reorder level) have fallen below their safety thresholds and require immediate restocking.
